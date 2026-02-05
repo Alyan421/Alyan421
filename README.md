@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Muhammad Alyan  
+#  Hi, I’m Muhammad Alyan  
 
 I’m a **Software Developer** focused on **backend systems, SQL-driven applications, and data-centric problem solving**, with growing hands-on experience in **machine learning and deep learning**. I enjoy building scalable, practical solutions that turn raw data into meaningful insights through clean APIs, optimized databases, and intelligent models.
 
@@ -12,42 +12,42 @@ I’m currently deepening my expertise in **data engineering, analytics, cloud-b
 
 ---
 
-## 🎯 Core Skills
+##  Core Skills
 
-### 🧠 Languages & SQL
+###  Languages & SQL
 - C++, C#, Python, JavaScript, TypeScript  
 - Advanced SQL (query optimization, indexing, stored procedures)
 
-### ⚙️ Backend Development
+###  Backend Development
 - ASP.NET Core, Entity Framework  
 - REST API design & integration  
 - Authentication (JWT, role-based access control)
 
-### 🤖 Machine Learning & Deep Learning
+###  Machine Learning & Deep Learning
 - Data preprocessing & feature engineering  
 - Neural networks (fundamentals)  
 - Model training, evaluation, and tuning  
 - Familiar with TensorFlow / PyTorch basics  
 
-### 🎨 Frontend Development
+###  Frontend Development
 - Angular, React  
 - Responsive UI development  
 - Reusable components & state management
 
-### 🗄️ Databases & Data
+###  Databases & Data
 - PostgreSQL, SQL Server, MySQL  
 - Data modeling, normalization, indexing  
 - Analytical queries, reporting views & KPI calculation  
 - Basic Power BI / data visualization  
 - MongoDB fundamentals
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 - Microsoft Azure (App Service, Static Web Apps)  
 - GitHub Actions (CI/CD pipelines)  
 - Docker (basic)  
 - Cloudinary, Neon DB
 
-### 🛠️ Tools
+### Tools
 - Git, GitHub  
 - Postman  
 - AI tools: ChatGPT, GitHub Copilot  
